@@ -8,7 +8,8 @@ import javafx.scene.control.*;
 import javafx.geometry.*;
 import java.util.Scanner;
 
-public class testrental 
+public class EasyRental
+    
 {
     public static void main(String[] args) {
       
